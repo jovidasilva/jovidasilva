@@ -18,16 +18,6 @@ Sou um estudante de engenharia da computação que está aprendendo programaçã
 [![Minhas Habilidades](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
   
 </div>
-  
-##
-
-
-
-|My overall statistics|Top most languages |
-|------------------|-------------|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovidasilva&show_icons=true&theme=transparent)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovidasilva&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-
-##
 
 <div>
 <a href="https://www.instagram.com/_joaovicsa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
