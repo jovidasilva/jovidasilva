@@ -1,36 +1,36 @@
-# Oi, meu nome é João 👋
+# Hi, I'm João 👋
 
-Sou estudante do último ano de Engenharia da Computação (Universidade Ceuma), com experiência prática em desenvolvimento web e pesquisa aplicada com Python e Inteligência Artificial. Autor do INTERMED, sistema de gestão acadêmica hospedado aqui no GitHub. Buscando oportunidade de estágio em desenvolvimento de software.
+Final-year Computer Engineering student at Universidade Ceuma, with hands-on experience in web development and applied research using Python and Artificial Intelligence. Author of INTERMED, an academic management system hosted here on GitHub. Currently seeking a software development internship or a junior/trainee developer position.
 
-## 🚀 O que estou aprendendo no momento
+## 🚀 What I'm currently learning
 
-Atualmente estudando desenvolvimento web, inteligência artificial e banco de dados, sempre buscando evoluir um pouco mais a cada dia.
+Currently studying web development, artificial intelligence and databases, always striving to improve a little more every day.
 
 **Front-End**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
 
 **Back-End**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,c,php)](https://skillicons.dev)
 
-**Dados**
+**Data**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 **Tools and Platforms**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=github,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git)](https://skillicons.dev)
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
-- **[INTERMED](https://github.com/jovidasilva/Interdisciplinar-Med)** — Sistema de gestão de internatos médicos (cadastro de alunos, preceptores e avaliações), com PHP, MySQL, Bootstrap e modelagem UML no Astah.
+- **[INTERMED](https://github.com/jovidasilva/Interdisciplinar-Med)** — Medical internship management system (student, preceptor and evaluation records), built with PHP, MySQL, Bootstrap and UML modeling in Astah.
 
-## 🎓 Formação
+## 🎓 Education
 
-Bacharelado em Engenharia da Computação — Desenvolvimento de Software, Universidade Ceuma (2023 – 2026, cursando)
+B.Sc. in Computer Engineering — Software Development track, Universidade Ceuma (2023 – 2026, in progress)
 
-## 📫 Contato
+## 📫 Contact
 
 <div>
 <a href="https://www.instagram.com/_joaovicsa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
